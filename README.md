@@ -39,6 +39,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
  - [Time Series Data](#time-series-data)
    - [Rolling Window Features](#rolling-window-features)
    - [Lag Features](#lag-features)
+ - [Geospatial Data](#geospatial-data)
 
 
 ## Numeric Data
@@ -126,6 +127,11 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 * [pandas.DataFrame.rolling](https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.DataFrame.rolling.html)
 ### Lag Features
 * [Use pandas to lag your timeseries data in order to examine causal relationships](https://medium.com/@NatalieOlivo/use-pandas-to-lag-your-timeseries-data-in-order-to-examine-causal-relationships-f8186451b3a9)
+
+
+## Geospatial Data
+* [Geospatial Feature Engineering and Visualization](https://www.kaggle.com/camnugent/geospatial-feature-engineering-and-visualization)
+* [Intro to Geospatial Data using Python](https://github.com/SocialDataSci/Geospatial_Data_with_Python/blob/master/Intro%20to%20Geospatial%20Data%20with%20Python.ipynb)
 
 
 [Back to Top](#contents)
