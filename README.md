@@ -56,6 +56,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 ### Yeo-Johnson Transformation
 * [Yeo-Johnson Transformation](https://gist.github.com/mesgarpour/f24769cd186e2db853957b10ff6b7a95)
 ### Feature Interactions
+* [Featuretools](https://docs.featuretools.com/)
 * [sklearn.preprocessing.PolynomialFeatures](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
 * Divisions
 * Other interactions
