@@ -16,6 +16,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
  - [Numeric Data](#numeric-data)
    - [Scaling](#scaling)
    - [Ranking](#ranking)
+   - [Quantization and Binning](#quantization-and-binning)
    - [Box-Cox Transformation](#box-cox-transformation)
    - [Yeo-Johnson Transformation](#yeo-johnson-transformation)
    - [Feature Interactions](#feature-interactions)
@@ -51,6 +52,10 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 ### Ranking
 * [Ranking](https://en.wikipedia.org/wiki/Ranking)
 * [scipy.stats.rankdata](https://docs.scipy.org/doc/scipy-0.16.0/reference/generated/scipy.stats.rankdata.html)
+### Quantization and Binning
+* [Data Binning](https://en.wikipedia.org/wiki/Data_binning)
+* [Bucketing Continuous Variables in pandas](http://benalexkeen.com/bucketing-continuous-variables-in-pandas/)
+* [pandas.cat](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.cut.html)
 ### Box-Cox Transformation
 * [scipy.stats.boxcox](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.boxcox.html)
 * `np.log (x + const)`
