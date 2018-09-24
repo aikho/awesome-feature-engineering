@@ -35,6 +35,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
    - [Deep Learning Features](#deep-learning-features)
  - [Categorical Data](#categorical-data)
    - [One Hot Encoding](#one-hot-encoding)
+   - [Dummy Encoding](#dummy-encoding)
    - [Mean Encoding](#mean-encoding)
  - [Time Series Data](#time-series-data)
    - [Rolling Window Features](#rolling-window-features)
