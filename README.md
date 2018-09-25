@@ -22,6 +22,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
    - [Feature Interactions](#feature-interactions)
    - [Clustering Features](#clustering-features)
    - [t-SNE Features](#t-sne-features)
+   - [PCA Features](#pca-features)
  - [Textual Data](#textual-data)
    - [Bag of Words](#bag-of-words)
    - [TFIDF](#tfidf)
@@ -71,6 +72,9 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 ### t-SNE Features
 * [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
 * [Automatic feature extraction with t-SNE](https://medium.com/jungle-book/automatic-feature-extraction-with-t-sne-62826ce09268)
+### PCA Features
+* [Principal component analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
+* [sklearn.decomposition.PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 
 
 ## Textual Data
