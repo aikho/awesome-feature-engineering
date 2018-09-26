@@ -30,6 +30,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
    - [Subword Embeddings](#subword-embeddings)
    - [Pattern Features](#pattern-features)
    - [Lexicon Features](#lexicon-features)
+   - [PoS Features](#pos-features)
  - [Image Data](#image-data)
    - [Computer Vision Algorithm Features](#computer-vision-algorithm-features)
    - [Image Statistics Features](#image-statistics-features)
@@ -102,7 +103,10 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 * Regular Expressions
 ### Lexicon Features
 * [Named Entity Recognition with Bidirectional LSTM-CNNs (arXiv:1511.08308)](https://arxiv.org/abs/1511.08308v4)
-
+### PoS Features
+* [Part-of-Speech_Tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
+* [NLTK Categorizing and Tagging Words](https://www.nltk.org/book/ch05.html)
+* [How to use PoS features in scikit learn classfiers](https://stackoverflow.com/questions/24002485/python-how-to-use-pos-part-of-speech-features-in-scikit-learn-classfiers-svm)
 
 ## Image Data
 ### Computer Vision Algorithm Features
