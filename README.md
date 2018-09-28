@@ -25,6 +25,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
    - [PCA Features](#pca-features)
  - [Textual Data](#textual-data)
    - [Bag of Words](#bag-of-words)
+   - [Phrase Detection Features](#phrase-detection-features)
    - [TFIDF](#tfidf)
    - [Word Embeddings](#word-embeddings)
    - [Subword Embeddings](#subword-embeddings)
@@ -86,6 +87,8 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 * [sklearn.feature_extraction.text.CountVectorizer](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)
 * [sklearn.feature_extraction.DictVectorizer](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.DictVectorizer.html)
 * [sklearn.feature_extraction.FeatureHasher](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.FeatureHasher.html)
+### Phrase Detection Features
+* [sklearn_api.phrases – Scikit learn wrapper for phrase (collocation) detection](https://radimrehurek.com/gensim/models/phrases.html)
 ### TFIDF
 * [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 * [sklearn.feature_extraction.text.TfidfVectorizer](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
