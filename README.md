@@ -41,6 +41,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
    - [One Hot Encoding](#one-hot-encoding)
    - [Dummy Encoding](#dummy-encoding)
    - [Mean Encoding](#mean-encoding)
+   - [Count Encoding](#count-encoding)
    - [Label Encoding](#label-encoding)
    - [Hashing trick](#hashing-trick)
 - [Time Series Data](#time-series-data)
