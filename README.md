@@ -145,7 +145,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 * [Python target encoding for categorical features](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)
 * [Adding variance column when mean encoding](https://www.kaggle.com/general/16927#95887)
 ### Count Encoding
-* [Substituting a category by the count of number of samples in that category](https://www.kaggle.com/general/16927#95887)
+* [Substituting a category by the count of number of samples in that category](https://www.kaggle.com/general/16927#95677)
 * [Feature engineering: Count encoding](https://www.slideshare.net/HJvanVeen/feature-engineering-72376750/11)
 ### Label Encoding
 * [Label encoding in scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)
