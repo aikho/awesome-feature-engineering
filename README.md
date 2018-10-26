@@ -39,8 +39,11 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
    - [Deep Learning Features](#deep-learning-features)
  - [Categorical Data](#categorical-data)
    - [One Hot Encoding](#one-hot-encoding)
+   - [Count Encoding](#count-encoding)
+   - [Label Encoding](#label-encoding)
    - [Dummy Encoding](#dummy-encoding)
    - [Mean Encoding](#mean-encoding)
+   - [Hashing](#hashing)
  - [Time Series Data](#time-series-data)
    - [Rolling Window Features](#rolling-window-features)
    - [Lag Features](#lag-features)
@@ -133,12 +136,23 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 * [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
 * [sklearn.preprocessing.OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
 * [Keras - to_categorical](https://keras.io/utils/#to_categorical)
+### Count Encoding
+* [Feature engineering: Count encoding](https://www.slideshare.net/HJvanVeen/feature-engineering-72376750/11)
+### Label Encoding
+* [Label encoding in scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)
+* [Feature engineering: Label encoding](https://www.slideshare.net/HJvanVeen/feature-engineering-72376750/9)
 ### Dummy Encoding
 * [Dummy Coding: The how and why](http://www.statisticssolutions.com/dummy-coding-the-how-and-why/)
 * [pandas.get_dummies](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.get_dummies.html)
+* [One-Hot vs Dummy encoding](https://stats.stackexchange.com/questions/224051/one-hot-vs-dummy-encoding-in-scikit-learn)
 ### Mean Encoding
 * [Likelihood encoding of categorical features](https://www.kaggle.com/tnarik/likelihood-encoding-of-categorical-features)
 * [Python target encoding for categorical features](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)
+* [Adding variance column when mean encoding](https://www.kaggle.com/general/16927#95887)
+### Hashing
+* [Feature Hashing on Wikipedia](https://en.wikipedia.org/wiki/Feature_hashing)
+* [Feature hashing and Extraction in VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Feature-Hashing-and-Extraction)
+* [Feature hashing in scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.FeatureHasher.html)
 
 
 ## Time Series Data
