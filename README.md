@@ -52,6 +52,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 
 ## Numeric Data
 * [Understanding Feature Engineering (Part 1) -- Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+* [Physics-based feature choice with NumPy](https://gist.github.com/haoming-luo/727a217b5b2161a4e81f4ec65aacfc56) - A runnable AgentFEM teaching notebook comparing stiffness E and inverse stiffness 1/E as features on ten finite-element cases.
 ### Scaling
 * [sklearn.preprocessing.MinMaxScaler](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
 * [sklearn.preprocessing.StandartScaler](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
