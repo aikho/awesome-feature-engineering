@@ -160,6 +160,7 @@ Please feel free to create [pull requests](https://github.com/aikho/awesome-feat
 * [Basic Feature Engineering With Time Series Data in Python](https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/)
 ### Rolling Window Features
 * [pandas.DataFrame.rolling](https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.DataFrame.rolling.html)
+* [Streaming Fraud Velocity Features](https://github.com/RishabhPande/stream-fraud) - Synthetic Python example of rolling transaction counts and amounts with eviction, scoring and drift checks.
 ### Lag Features
 * [Use pandas to lag your timeseries data in order to examine causal relationships](https://medium.com/@NatalieOlivo/use-pandas-to-lag-your-timeseries-data-in-order-to-examine-causal-relationships-f8186451b3a9)
 
